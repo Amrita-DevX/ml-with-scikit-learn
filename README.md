@@ -16,8 +16,7 @@ Each folder represents a topic and contains:
 - Markdown files for theory/notes
 - Visuals and graphs
 
-## 📈 Current Project
+## 📈  Projects
 **🔸 Insurance Charges Prediction using Linear Regression**
 
-## ✨ Stay Tuned!
-More updates and projects coming soon as I progress in my ML learning journey.
+
