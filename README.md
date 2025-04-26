@@ -9,17 +9,15 @@ Welcome to my personal ML learning repository! I'm documenting my journey as I l
 - ⏳ Gradient Boosting Machines with XGBoost
 - ⏳ Unsupervised Learning using Scikit-Learn
 
-
-## 📂 Folder Structure
-Each folder represents a topic and contains:
-- Jupyter Notebooks with code
-- Markdown files for theory/notes
-- Visuals and graphs
-
 ## 📈  Projects
 ### 🔸 Insurance Charges Prediction using Linear Regression
+### 🔸 Australia Weather Prediction using Logistic Regression
+### 🔸 Breast Cancer Prediction-Logistic Regression
+
+## 📈  Process
 - **Exploratory Data Analysis (EDA)**
 - **Loss/Cost Function:** Root Mean Squared Error (RMSE)
+- **Train/Validation/Test Split**
 - **Optimizer Strategies:**
   - Ordinary Least Squares (OLS)
   - Stochastic Gradient Descent (SGD)
@@ -27,19 +25,9 @@ Each folder represents a topic and contains:
   - One-Hot Encoding
   - Binary Category Encoding
 - **Feature Scaling:**
-  - Standardization using `StandardScaler`
-
----
-
-### 🔸 Australia Weather Prediction using Logistic Regression
-- **Exploratory Data Analysis (EDA)**
-- **Train/Validation/Test Split**
+  - Using `StandardScaler` and `MinMaxScaler`
 - **Imputation of Missing Values:**
-  - Using `SimpleImputer`
-- **Feature Scaling:**
-  - Using `StandardScaler`
-- **Encoding Categorical Features:**
-  - Using `OneHotEncoder`
+  - Using `SimpleImputer`  
 - **Helper Functions to:**
   - Make Predictions
   - Compute Accuracy
