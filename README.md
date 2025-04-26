@@ -4,10 +4,10 @@ Welcome to my personal ML learning repository! I'm documenting my journey as I l
 
 ## 📌 Topics Covered
 - ✅ Linear Regression & Gradient Descent
-- ⏳  Logistic Regression for Classification
-- ⏳  Decision Trees and Random Forests
-- ⏳ Gradient Boosting Machines with XGBoost
-- ⏳ Unsupervised Learning using Scikit-Learn
+- ✅  Logistic Regression for Classification
+- ✅  Decision Trees and Random Forests
+- ✅ Gradient Boosting Machines with XGBoost
+- ✅ Unsupervised Learning using Scikit-Learn
 
 ## 📈  Projects
 ### 🔸 Insurance Charges Prediction using Linear Regression
