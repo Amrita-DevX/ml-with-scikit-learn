@@ -18,6 +18,8 @@ Welcome to my personal ML learning repository! I'm documenting my journey as I l
 - **Exploratory Data Analysis (EDA)**
 - **Loss/Cost Function:** Root Mean Squared Error (RMSE)
 - **Train/Validation/Test Split**
+- **Feature Enfineering**
+- **Ensembling Technique**
 - **Optimizer Strategies:**
   - Ordinary Least Squares (OLS)
   - Stochastic Gradient Descent (SGD)
