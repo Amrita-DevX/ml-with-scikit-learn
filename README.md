@@ -3,6 +3,7 @@
 Welcome to my personal ML learning repository! I'm documenting my journey as I learn Machine Learning concepts and practice them using Python and scikit-learn.
 
 ## 📌 Topics Covered
+- ✅ How to Approach ML Projects
 - ✅ Linear Regression & Gradient Descent
 - ✅  Logistic Regression for Classification
 - ✅  Decision Trees and Random Forests
@@ -12,13 +13,16 @@ Welcome to my personal ML learning repository! I'm documenting my journey as I l
 ## 📈  Projects
 ### 🔸 Insurance Charges Prediction using Linear Regression
 ### 🔸 Australia Weather Prediction using Logistic Regression
+### 🔸 Australia Weather with Decision Tree and Random Forest
 ### 🔸 Breast Cancer Prediction-Logistic Regression
+### 🔸 Rossmann Store Sales using Feature Engineering & Stacked Ensemble
+
 
 ## 📈  Process
 - **Exploratory Data Analysis (EDA)**
-- **Loss/Cost Function:** Root Mean Squared Error (RMSE)
+- **Loss/Cost Function:** Root Mean Squared Error (RMSE),Root Mean Squared Percentage Error(RMSPE)
 - **Train/Validation/Test Split**
-- **Feature Enfineering**
+- **Feature Engineering**
 - **Ensembling Technique**
 - **Optimizer Strategies:**
   - Ordinary Least Squares (OLS)
